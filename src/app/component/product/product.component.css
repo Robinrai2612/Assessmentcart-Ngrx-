@@ -1,0 +1,19 @@
+.item img {
+  width: 64px;
+}
+item {
+  margin: 0px 15px;
+  text-align: center;
+}
+.card {
+  padding: 20px;
+  margin: 30px;
+}
+.card img:hover {
+  transition: 00.3s ease-in-out;
+  transition: scale(1.1);
+}
+.card-top {
+  position: relative;
+  display: flex;
+}
